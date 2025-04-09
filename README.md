@@ -21,7 +21,7 @@ If you're using Git:
 
 bash
 Copy code
-git clone https://github.com/yourusername/riftadbmenu.git
+git clone im too lazy go find it yourself in releases!!!
 Navigate to the project folder in your terminal:
 
 bash
