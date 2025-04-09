@@ -53,7 +53,7 @@ Run the script:
 
 bash
 Copy code
-./riftadbmenu
+./riftadbmenu.sh
 Select an option:
 
 1: List connected devices.
@@ -67,7 +67,7 @@ Select an option:
 Example Usage
 bash
 Copy code
-$ ./riftadbmenu
+$ ./riftadbmenu.sh
 1. List devices
 2. Run command
 3. Reboot
